@@ -39,7 +39,17 @@ Start Bootstrap의 Resume 테마를 기반으로 수정하여 제작하였습니
 
 추가 기능 :
 
-1) 기능 제목: 부산행 프로젝트 코드 다운로드 기능  
-2) 설명: 이력서에 해당하는 실제 프로젝트 코드(main.c)를 다운로드할 수 있도록 구현  
-3) 코드 위치: index.html 내 프로젝트 1 섹션에 `<a href="assets/main.c" download>` 형태로 작성  
-4) 코드 설명: 사용자가 버튼을 클릭하면 `assets` 폴더에 있는 `main.c` 파일을 다운로드할 수 있도록 설정함
+1) 기능 1 제목: 부산행 프로젝트 코드 다운로드 기능  
+  설명: 이력서에 해당하는 실제 프로젝트 코드(main.c)를 다운로드할 수 있도록 구현  
+  코드 위치: index.html 내 프로젝트 1 섹션에 `<a href="assets/main.c" download>` 형태로 작성  
+  코드 설명: 사용자가 버튼을 클릭하면 `assets` 폴더에 있는 `main.c` 파일을 다운로드할 수 있도록 설정함
+
+2) 기능 2 제목: SNS/이메일 링크 연결 기능  
+설명: 프로필 페이지에서 아이콘을 클릭하면 실제 인스타그램 계정과 이메일 앱으로 연결됨  
+코드 위치: index.html 파일 안 profile 부분의 <div class="social-icons"> 안에 작성  
+코드 설명:
+- 인스타그램:
+- <a class="social-icon" href="https://www.instagram.com/사용자계정" target="_blank"><i class="fab fa-instagram"></i></a>
+- 이메일:
+  <a class="social-icon" href="mailto:email@domain.com"><i class="fas fa-envelope"></i></a>
+
