@@ -49,7 +49,6 @@ Start Bootstrap의 Resume 테마를 기반으로 수정하여 제작하였습니
 코드 위치: index.html 파일 안 profile 부분의 <div class="social-icons"> 안에 작성  
 코드 설명:
 - 인스타그램:
-- <a class="social-icon" href="https://www.instagram.com/사용자계정" target="_blank"><i class="fab fa-instagram"></i></a>
+- `<a class="social-icon" href="https://www.instagram.com/사용자계정" target="_blank"><i class="fab fa-instagram"></i></a>`
 - 이메일:
-  <a class="social-icon" href="mailto:email@domain.com"><i class="fas fa-envelope"></i></a>
-
+  `<a class="social-icon" href="mailto:email@domain.com"><i class="fas fa-envelope"></i></a>`
