@@ -2,7 +2,7 @@
 
 이 웹페이지는 웹스크립트 프로그래밍 과제로 만든 포트폴리오 사이트입니다.  
 사이트 주소: https://sngmng.github.io
-
+깃허브 주소: https://github.com/Sngmng/Sngmng.github.io
 
 테마 :
 
